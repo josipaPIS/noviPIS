@@ -8,5 +8,8 @@ namespace noviPIS
 {
     class klasa
     {
+        public void proba(){
+          console.WriteLine("ajmo");  
+        };
     }
 }
