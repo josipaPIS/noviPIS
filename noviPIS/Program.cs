@@ -12,6 +12,7 @@ namespace noviPIS
         {
 
             Console.WriteLine("Hello World");
+            Console.WriteLine("sad ti je lipse ovako");
         }
     }
 }
